@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+# Tableau Version
+  v.2024.1
+
+# R Version
+R v.4.3.3
+
+# Packages
+stringr
+dplyr
