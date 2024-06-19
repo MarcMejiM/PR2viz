@@ -19,8 +19,8 @@ La implementació de la pràctica s'ha realitzat integrament amb Tableau v. 2024
 *  **requeriments.txt**: Entorn de programació utilitzat.
 
 ### Carpeta 'data'
-- **data/all_seasons.csv**: Arxiu csv amb les dades original pel desenvolupament de la pràctica 2.
-- **data/NBA 3-Point Shooting Data (1996-2020).xlsx**: Arxiu xlsx original pel desenvolupament de la pràctica 2.
+- **data/all_seasons.csv**: Arxiu csv amb les dades original pel desenvolupament de la pràctica 2. [1]
+- **data/NBA 3-Point Shooting Data (1996-2020).xlsx**: Arxiu xlsx original pel desenvolupament de la pràctica 2.[2]
 - **data/nba.csv**: Arxiu csv amb les dades preparades per a la pràctica 2.
 - **data/nba_country.csv**: Arxiu csv amb les dades preparades per a la pràctica 2.
 - **data/nba_evo.csv**: Arxiu csv amb les dades preparades per a la pràctica 2. 
@@ -31,3 +31,8 @@ La implementació de la pràctica s'ha realitzat integrament amb Tableau v. 2024
 
 ### Carpeta 'source'
 * **source/data_to_viz.R'**: Codi de la neteja i preparació de les dades.
+
+## Referències
+* [1] Cirtautas, J. (2023). **NBA Players** (Versió 5) [Base de dades] Kaggle.
+Disponible a: https://www.kaggle.com/datasets/justinas/nba-playersdata/data
+* [2] Kaswan, M (2022). **NBA 3-Point Shooting Data (1996-2020)** [Base de dades]. Kaggle. Disponible a: https://www.kaggle.com/datasets/mahendrakaswan/nba-3point-shootingdata-19962020?select=NBA+3-Point+Shooting+Data+%281996-2020%29.xlsx
