@@ -22,7 +22,8 @@ La implementació de la pràctica s'ha realitzat integrament amb Tableau v. 2024
 - **data/all_seasons.csv**: Arxiu csv amb les dades original pel desenvolupament de la pràctica 2.
 - **data/NBA 3-Point Shooting Data (1996-2020).xlsx**: Arxiu xlsx original pel desenvolupament de la pràctica 2.
 - **data/nba.csv**: Arxiu csv amb les dades preparades per a la pràctica 2.
-- **data/nba_country.csv**: Arxiu csv amb les dades preparades per a la pràctica 2. 
+- **data/nba_country.csv**: Arxiu csv amb les dades preparades per a la pràctica 2.
+- **data/nba_evo.csv**: Arxiu csv amb les dades preparades per a la pràctica 2. 
 
 ### Carpeta 'outputs'
 * **outputs/PR2.twb**: Arxiu twb amb les visualitzcions generades per a la pràctica 2.
